@@ -1,6 +1,6 @@
 # ExonSkipping
 Repository containing methods to calculate skipping counts transcript specific regions. Belonging to the following manuscript:
-### Neojunctions in Mismatch Repair Deficient Colorectal Cancer are Unrelated to FS-Indels and Immunologically of Limited Importance
+### Neojunctions in Mismatch Repair Deficient Colorectal Cancer are Unrelated to FS-Indels
 #### I.T. Spaanderman, F.S. Peters, C. Tromedjo, O.J.A. Figaroa and A.D. Bins
 
 <br />
